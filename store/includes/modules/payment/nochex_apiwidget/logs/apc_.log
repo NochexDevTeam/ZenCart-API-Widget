@@ -1,0 +1,41 @@
+Wed Jan 2015 9:47 -- APC Session Query: SELECT * 
+          FROM nochex_sessions 
+          WHERE session_id = 'pv221p2ku2nfrbtanc41413iv0'
+
+
+$session_stuff = Array
+(
+    [0] => zenid
+    [1] => pv221p2ku2nfrbtanc41413iv0
+)
+
+
+Wed Jan 2015 9:47 -- APC NOTICE::Got past language loads
+
+Wed Jan 2015 9:47 -- APC INFO - POST VARS  
+transaction_id=4645597 
+&transaction_date=21%2F01%2F2015+09%3A48%3A10 
+&order_id= 
+&amount=39.49 
+&from_email=james.lugton%40nochex.com 
+&to_email=james.lugton%40nochex.com 
+&security_key=6012e4eede3140f58176ec1909639480 
+&status=test 
+&custom=zenid%3Dpv221p2ku2nfrbtanc41413iv0
+
+Wed Jan 2015 9:47 -- APC INFO - RESPONSE  
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 10
+Expires: -1
+Date: Wed, 21 Jan 2015 09:53:01 GMT
+Content-Type: text/html
+Cache-Control: no-store
+Pragma: nocache
+X-Powered-By: ASP.NET
+Server: Secure Web Server
+
+-----------------
+
+AUTHORISED
+
